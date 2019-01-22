@@ -12,10 +12,9 @@ I'm currently using the Photon release 4.8.
 #### Plugins
 
 * M2E (Maven) - Use main Eclipse Photon update site
-* Marketplace - Use main Eclipse Photon update site
-* TestNG - Drag and drop [marketplace link](http://marketplace.eclipse.org/content/testng-eclipse)
+* TestNG - Use [update site](http://beust.com/eclipse)
 * EclEmma - Use [update site](http://update.eclemma.org/)
-* Eclipse-CS - Drag and drop [marketplace link](http://checkstyle.org/eclipse-cs/#!/)
+* Eclipse-CS - Use [update site](http://eclipse-cs.sourceforge.net/update)
 * M2-Code-Quality - Plugin in this repo (patched version by [GEBIT](https://github.com/GEBIT/m2e-code-quality/tree/develop) at 89a6fb2f)
 * Dependencies viewer - Plugin in this repo
 
